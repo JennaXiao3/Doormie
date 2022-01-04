@@ -1,4 +1,4 @@
-# Doormie
+# Doormie - A Mobile App for Roommates
 
 As first-year students at university, we have all had our fair share of experiences with our roommates. We hear stories from our friends who talk about how their roommates stay out so late, stay in all day, are too loud, always need a quiet space, are hard to communicate with, are easy to get along, etc. To simplify the communication between two strangers (or friends) under the same roof, we built a mobile app...Doormie!
 
